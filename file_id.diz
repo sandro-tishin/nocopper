@@ -1,0 +1,11 @@
+Nick/Realname: Sandro / Alexander Tishin
+Group: None
+Full name of work: No Copper
+Compo: 256 Bytes intro; 12th place at the DiHalt'2021 LowEnd 256 bytes
+Requirements: BK-0011M with color monitor
+Duration: Looped, recommended demonstration time 20 seconds.
+Contacts: sandro.tishin@gmail.com
+Binary name: nocopper11m.bin
+Source code: nocopper11m.asm; should be assembled by the pdpy11
+Notes: This is NOT the version shown at the compo;
+Notes: Consider it to be a director's cut.
